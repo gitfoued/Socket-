@@ -13,21 +13,23 @@
     - [Commentaires](Exercice2/README.md#commentaires-1) 💬
 5. [Exercice 3](Exercice3/README.md#exercice-3) 📤📥
     - [Commentaires](Exercice3/README.md#commentaires-2) 💬
-6. [Dossiers additionnels](#dossiers-additionnels) 📁
 
 ## Objectifs du TP
 
-Ce TP a pour objectif de manipuler la communication client/serveur via les sockets avec Java.
+Ce TP a pour objectif de manipuler la communication client/serveur via les sockets avec java.
 
 ## Les Sockets
 
-Un socket est un point de terminaison dans une communication bidirectionnelle entre deux programmes fonctionnant sur un réseau. Il est associé à un numéro de port pour que la couche TCP puisse identifier l’application vers laquelle les données doivent être transmises.
+Un socket est un point de terminaison dans une communication bidirectionnelle entre deux programmes fonctionnant sur un réseau. 
+Il est associé à un numéro de port pour que la couche TCP puisse identifier l’application vers laquelle les données doivent être transmises.
 
 ## Exercice 1 🚀
 
-L'exercice 1 consiste à développer un serveur TCP/IP qui écoute sur le port 10000 et accepte des connexions clientes. Le programme client se connecte au serveur, lui envoie un message, et le serveur répond.
+L'exercice 1 consiste à développer un serveur TCP/IP qui écoute sur le port 10000 et accepte des connexions clientes. 
+Le programme client se connecte au serveur, lui envoie un message, et le serveur répond.
+## Exercice 2🚀
+On souhaite échanger entre le client/serveur les objets d’une classe voiture via les sockets.
+## Exercice 3🚀
 
-### Côté serveur 🖥️ :
-
-```java
-// Insérez le code du serveur ici
+L'application distribuée implique un client envoyant des données sur des personnes au serveur, composées d'un âge (int) et d'un nom (String).
+À chaque envoi, le serveur renvoie un identifiant au client en réponse.
