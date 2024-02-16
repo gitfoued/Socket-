@@ -1,5 +1,6 @@
 # Exercice 1 :   Échange d'objets Voiture
-
+# <span style="color:blue">Titre 1</span>
+Texte du titre 1
 ## Objectif de l'exercice
 
 L'exercice consiste à échanger des objets de la classe `Voiture` entre le client et le serveur via les sockets. Le client crée un objet `Voiture`, ajuste la quantité de carburant à l'aide de la méthode `setCarburant()`, puis envoie cet objet au serveur. Le serveur peut ensuite manipuler l'objet `Voiture`.
