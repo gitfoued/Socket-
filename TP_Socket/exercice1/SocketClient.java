@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class SocketClient {
     public static void main(String argv[]) {
-        int port = 1234;
+        int port = 10000;
         String host = "";
         Scanner keyb = new Scanner(System.in);
 
