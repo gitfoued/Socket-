@@ -8,7 +8,7 @@
     - [Côté serveur](exercice1/README.md#côté-serveur) 🖥️
     - [Côté client](exercice1/README.md#côté-client) 🖥️
 4. [Exercice 2](exercice2/README.md#exercice-2) 🚗
-5.  - [Côté serveur](exercice2/README.md#côté-serveur) 🖥️
+    - [Côté serveur](exercice2/README.md#côté-serveur) 🖥️
     - [Côté client](exercice2/README.md#côté-client) 🖥️
     - [Classe Voiture](exercice2/README.md#classe-voiture) 🏎️
 6. [Exercice 3](exercice3/README.md#exercice-3) 📤📥
