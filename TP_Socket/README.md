@@ -1,19 +1,21 @@
+
 # TP N°6 : Programmation Réseau avec les Sockets TCP
 
 ## Table des matières
 
-1. [Objectifs du TP](#objectifs-du-tp)
-2. [Les Sockets](#les-sockets)
-3. [Exercice 1](#exercice-1)
-    - [Côté serveur](#côté-serveur)
-    - [Côté client](#côté-client)
-    - [Commentaires](#commentaires)
-4. [Exercice 2](#exercice-2)
-    - [Classe Voiture](#classe-voiture)
-    - [Commentaires](#commentaires-1)
-5. [Exercice 3](#exercice-3)
-    - [Commentaires](#commentaires-2)
-6. [Dossiers additionnels](#dossiers-additionnels)
+1. [Objectifs du TP](#objectifs-du-tp) 🎯
+2. [Les Sockets](#les-sockets) 🔌
+3. [Exercice 1](#exercice-1) 🚀
+    - [Côté serveur](#côté-serveur) 🖥️
+    - [Côté client](#côté-client) 🖥️
+    - [Commentaires](#commentaires) 💬
+4. [Exercice 2](#exercice-2) 🚗
+    - [Classe Voiture](#classe-voiture) 🏎️
+    - [Commentaires](#commentaires-1) 💬
+5. [Exercice 3](#exercice-3) 📤📥
+    - [Commentaires](#commentaires-2) 💬
+6. [Dossiers additionnels](#dossiers-additionnels) 📁
+
 
 ## Objectifs du TP
 
