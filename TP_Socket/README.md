@@ -7,7 +7,6 @@
 3. [Exercice 1](exercice1/README.md#exercice-1) 🚀
     - [Côté serveur](exercice1/README.md#côté-serveur) 🖥️
     - [Côté client](exercice1/README.md#côté-client) 🖥️
-    - [Commentaires](exercice1/README.md#commentaires) 💬
 4. [Exercice 2](exercice2/README.md#exercice-2) 🚗
 5.  - [Côté serveur](exercice2/README.md#côté-serveur) 🖥️
     - [Côté client](exercice2/README.md#côté-client) 🖥️
