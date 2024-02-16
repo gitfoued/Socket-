@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class SocketServeur {
     public static void main(String argv[]) {
-        int port = 1234;
+        int port = 10000;
         Scanner keyb = new Scanner(System.in);
 
         // Récupérer le port d'écoute à partir de la saisie utilisateur
