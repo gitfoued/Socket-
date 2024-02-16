@@ -9,10 +9,12 @@
     - [Côté client](exercice1/README.md#côté-client) 🖥️
     - [Commentaires](exercice1/README.md#commentaires) 💬
 4. [Exercice 2](exercice2/README.md#exercice-2) 🚗
+5.  - [Côté serveur](exercice2/README.md#côté-serveur) 🖥️
+    - [Côté client](exercice2/README.md#côté-client) 🖥️
     - [Classe Voiture](exercice2/README.md#classe-voiture) 🏎️
-    - [Commentaires](exercice2/README.md#commentaires-1) 💬
-5. [Exercice 3](exercice3/README.md#exercice-3) 📤📥
-    - [Commentaires](exercice3/README.md#commentaires-2) 💬
+6. [Exercice 3](exercice3/README.md#exercice-3) 📤📥
+    - [Côté serveur](exercice3/README.md#côté-serveur) 🖥️
+    - [Côté client](exercice3/README.md#côté-client) 🖥️
 
 ## Objectifs du TP
 
