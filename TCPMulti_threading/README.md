@@ -1,4 +1,4 @@
-# Serveur TCP pour le traitement de 10 clients en parallèle
+### Serveur TCP pour le traitement de 10 clients en parallèle
 
 ## Description
 Ce projet est un exemple de serveur TCP simple qui peut traiter jusqu'à 10 clients en parallèle. Chaque client envoie une chaîne de caractères au serveur, qui inverse ensuite la chaîne et renvoie le résultat au client. Un délai avec `Thread.sleep` est ajouté pour bloquer le client en attente.
