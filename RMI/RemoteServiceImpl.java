@@ -19,12 +19,12 @@ public class RemoteServiceImpl extends UnicastRemoteObject implements RemoteServ
 
     public static void main(String[] args) {
         try {
-            // Créer un registre RMI sur le port 1099 par défaut
-            LocateRegistry.createRegistry(1099);
+           
+            LocateRegistry.createRegistry(5000);
 
             RemoteService service = new RemoteServiceImpl();
 
-            // Enregistrez le service avec le nom "RemoteService"
+           
             Naming.rebind("//localhost/RemoteService", service); // Ajout de la spécification de l'hôte
 
             System.out.println("Serveur RMI prêt.");
